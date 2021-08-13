@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nodomatic</h1>
 <h3 align="center">A discordjs and tmijs developer !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nodomatic&label=Profile%20views&color=0e75b6&style=flat" alt="nodomatic" /> </p>
-
 - 🔭 I’m currently working on [a discord and twitch private bot for the french streamer Noleler](https://www.twitch.tv/noleler)
 
 - 🌱 I’m currently learning **Python, Java**
