@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nodomatic</h1>
-<h3 align="center">A discordjs and tmijs developer !</h3>
-
-- 🔭 I’m currently working on [a discord and twitch private bot for the french streamer Noleler](https://www.twitch.tv/noleler)
+<h3 align="center">A JavaScript developer !</h3>
 
 - 🌱 I’m currently learning **Python, Java**
 
